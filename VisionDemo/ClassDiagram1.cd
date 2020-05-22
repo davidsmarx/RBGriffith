@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VisionDemo.AdvancedLineTool" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYACAAABASCAAAQAAAAIAAAAAAgAAgAAABQAUAAAABg=</HashCode>
+      <FileName>AdvancedLineTool.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.BlobCountTool" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAMJJUwKAYAMbQAAAABCJAAQGACBABiAABEAQCABA=</HashCode>
+      <FileName>BlobCountTool.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.GeometricModelTool" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Geometric Model Finder.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.frmMain" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jQL8DZVyVuq0VeAgKa6MEL8rMX3f9u6PVDuK7igMeMg=</HashCode>
+      <FileName>Main.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.MicrometerTool" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAAAAAAAAAACAAAAgBYAAAAAAAAAIA=</HashCode>
+      <FileName>MicrometerTool.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.PatternMatchTool" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pattern Match Tool.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.SimpleLineTool" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAgBASCAAAQAAAAIAAAAAAgAAAAAAAAAQAAAAAg=</HashCode>
+      <FileName>SimpleLineTool.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.ToolBase" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAIACAAAECAgAAIAAAAAAAAAhIIAEACQAAAEAI=</HashCode>
+      <FileName>ToolBase.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.My.MyApplication" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisionDemo.My.MySettings" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="VisionDemo.Declarations" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Declarations.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="VisionDemo.General" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>General.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="VisionDemo.Globals" Collapsed="true">
+    <Position X="17.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAACHIgBCFgAAAIAAAACAACCCAAAAACgAAAAAAEBBA=</HashCode>
+      <FileName>Globals.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="VisionDemo.Macros" Collapsed="true">
+    <Position X="14.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAIBAAAgAQAAAACAAAAAACAACIAAAIDISgACAIABAA=</HashCode>
+      <FileName>Marcos.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="VisionDemo.VMath" Collapsed="true">
+    <Position X="14.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACQAAAAAACAAAAAAAAAAAABCgAAAAEAAQAA=</HashCode>
+      <FileName>VMath.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="VisionDemo.My.MySettingsProperty" Collapsed="true">
+    <Position X="16" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="VisionDemo.My.Resources.Resources" Collapsed="true">
+    <Position X="17.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
